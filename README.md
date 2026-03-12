@@ -1,16 +1,36 @@
-## Hi there 👋
+ Портфолио
 
-<!--
-**chimerra/chimerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Системный аналитик, осваивающий Python для автоматизации
+>
+> ## 🔧 Навыки
 
-Here are some ideas to get you started:
+**Бизнес-анализ и 1С:**
+- Сбор и формализация требований, написание ТЗ
+- 1С: УПП, ЗУП, Бухгалтерия, Комплексная автоматизация
+- Тестирование, консультирование пользователей
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Технические инструменты:**
+- 💻 **Python**: скрипты для автоматизации, работа с API, Telegram-боты
+- 🗄️ **Базы данных**: PostgreSQL, SQLite, SQL-запросы
+- 🤖 **LLM**: Cursor, Perplexity — помощь в написании кода и документации
+- 📦 **Git / GitHub**: ведение проектов, code review
+- 🌐 **API**: интеграция с внешними сервисами (REST)
+
+## 🚀 Проекты
+
+1.### 🧳 [Travel Wallet Bot](https://github.com/chimerra/currency-travel-bot)
+Telegram-бот для учёта расходов в путешествиях с конвертацией валют по реальному курсу.
+
+2.### 🌤 [Weather Bot & CLI](https://github.com/chimerra/OpenWeather-telegrambot)
+Консольная утилита и Telegram-бот для получения прогноза погоды через OpenWeather API.
+
+3.### 🪑 [Booking System](https://github.com/chimerra/Posgre-booking-demobase)
+Система бронирования столиков для ресторана с проверкой пересечений.
+
+4.### 📄 [PDF Maker](https://github.com/chimerra/PDF-maker)
+CLI-скрипт для генерации PDF-документов (накладных, отчётов) из CSV и HTML-шаблонов.
+
+
+## 📚 Обучение
+- Курс «Профессия Вайб-кодер» 2026
+- Курс «Perplexity: от нуля до про», 2025
